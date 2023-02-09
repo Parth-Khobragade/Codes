@@ -10,3 +10,5 @@ class Solution{
        return sum;
     }
 }
+
+https://practice.geeksforgeeks.org/problems/sum-of-digits1742/0
